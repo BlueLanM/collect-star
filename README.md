@@ -1,9 +1,9 @@
-roguelike
+收集星星
 =====================
-简单 roguelike 游戏（传统的 roguelike 游戏定义为单人、随机、回合制、永久死亡的地牢探索游戏。）
+收集完所有星星完成任务！记得躲避炸弹！
 
 🎮 方向键盘控制
 
-⭐ 消灭所有敌人吧
+⭐ 收集所有星星吧
 
-点击试玩：[roguelike](https://bluelanm.github.io/roguelike/)
+点击试玩：[star](https://bluelanm.github.io/collect-star/)
