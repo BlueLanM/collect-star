@@ -147,8 +147,6 @@ function collectStar(player, stars) {
 function createBomb() {
 	bombs = this.physics.add.group();
 
-	bombs.create(100, 16, "bomb").setBounce(1);
-
 	// 增加炸弹和地面的碰撞器
 	this.physics.add.collider(bombs, platforms);
 
